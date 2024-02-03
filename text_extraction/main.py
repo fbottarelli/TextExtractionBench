@@ -1,5 +1,5 @@
 from text_extraction.common_interface import TextExtractionModule
-from text_extraction.pdfplumber import extract_text_from_pdf  # Assuming module1 is for pdfplumber
+from text_extraction.pdfplumber_module import extract_text_from_pdf  # Assuming module1 is for pdfplumber
 import config
 
 class PDFPlumberModule(TextExtractionModule):
