@@ -1,7 +1,7 @@
 # TextExtractionBench
 ## Overview
 Little framework for testing various text extraction techniques from documents using different Python libraries and techniques.
-Text Extraction Framework is a comprehensive Python-based toolkit designed to evaluate and compare the performance and accuracy of various text extraction techniques. It supports a range of libraries for extracting text from different document types, including PDFs, images, Word documents, and more, using both OCR (Optical Character Recognition) and non-OCR methods.
+It will supports a range of libraries for extracting text from different document types, including PDFs, images, Word documents, and more, using both OCR (Optical Character Recognition) and non-OCR methods.
 
 The project will follow the strcuture above:
 ```
